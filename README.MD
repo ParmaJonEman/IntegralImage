@@ -1,4 +1,4 @@
-# II
+# IntegralImage
 ### Setup
 
 - [Install OpenCV](https://opencv.org/releases/), and replace the path in the CMAKE file on the find_package line with your new path
