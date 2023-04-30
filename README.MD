@@ -7,7 +7,7 @@
 ### Run
 
 - Run the application via the command line with the following usage patten:
-    - ii.exe <image>
+    - ii.exe \<image\>
 - Example:
     - ii.exe cat.jpg
 - Key commands:
